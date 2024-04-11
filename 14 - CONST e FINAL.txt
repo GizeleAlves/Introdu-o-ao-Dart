@@ -1,0 +1,7 @@
+14 - CONST e FINAL
+
+Depois de atribuido valor a essas variáveis, não podemos modifica-las
+
+CONST - Usa-se quando se tem um valor conhecido durante o tempo de compilação
+FINAL - Valor não conhecido durante o tempo de compilação do programa
+

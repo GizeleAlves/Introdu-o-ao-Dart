@@ -1,0 +1,8 @@
+2 - Primeiros passos - flutter
+
+>>>Acerssar o diretório pelo powershell
+>>>Digitar flutter create nome_do_arquivo
+>>>cd nome_do_arquivo
+>>>flutter clean
+>>>flutter pub get
+>>>code . para abrir no vs codee

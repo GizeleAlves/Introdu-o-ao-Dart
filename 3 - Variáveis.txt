@@ -1,0 +1,8 @@
+3_ Variáveis
+
+
+Declara-se normamente como em python e java porem tem dois outros tipos:
+
+var: utiliza quando não se sabe o tipo, porém uma vez definida, não pode mudar o tipo
+
+dynamic: pode-se mudar o tipo a qualquer momento
